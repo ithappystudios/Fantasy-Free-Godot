@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bvyyg8r6dpfei"]
+
+[ext_resource type="Texture2D" uid="uid://caov4g31fqws5" path="res://Fantasy_FREE/assets/textures_png/ITHappy_BaseColor.png" id="1_wkltw"]
+
+[resource]
+albedo_texture = ExtResource("1_wkltw")
