@@ -1,0 +1,166 @@
+[gd_scene load_steps=41 format=3 uid="uid://bkohuupeknj2i"]
+
+[ext_resource type="PackedScene" uid="uid://ddldosunb0q4t" path="res://Fantasy_Free/nodes/bag_001.tscn" id="1_67dw4"]
+[ext_resource type="PackedScene" uid="uid://blevx8i5rs008" path="res://Fantasy_Free/nodes/bag_002.tscn" id="2_70w1f"]
+[ext_resource type="PackedScene" uid="uid://cam7fu7a5usjf" path="res://Fantasy_Free/nodes/bag_003.tscn" id="3_w2t8n"]
+[ext_resource type="PackedScene" uid="uid://dpl4tkj1ssc7f" path="res://Fantasy_Free/nodes/bag_004.tscn" id="4_yphgi"]
+[ext_resource type="PackedScene" uid="uid://rhnfrh6gow28" path="res://Fantasy_Free/nodes/barrel_001.tscn" id="5_4iw3t"]
+[ext_resource type="PackedScene" uid="uid://bnhc03fpjju53" path="res://Fantasy_Free/nodes/big_fabulous_tree_001.tscn" id="6_ii34j"]
+[ext_resource type="PackedScene" uid="uid://c1pcau1f1fsa4" path="res://Fantasy_Free/nodes/box_001.tscn" id="7_bbfer"]
+[ext_resource type="PackedScene" uid="uid://cttukn07ojlu5" path="res://Fantasy_Free/nodes/box_001_001.tscn" id="8_8cgp7"]
+[ext_resource type="PackedScene" uid="uid://b7d2x5ov8gl7v" path="res://Fantasy_Free/nodes/box_002.tscn" id="9_52rjt"]
+[ext_resource type="PackedScene" uid="uid://7q27d7w572g1" path="res://Fantasy_Free/nodes/box_003.tscn" id="10_k5lre"]
+[ext_resource type="PackedScene" uid="uid://2is765vq6m86" path="res://Fantasy_Free/nodes/bucket_001.tscn" id="11_upmb2"]
+[ext_resource type="PackedScene" uid="uid://dts2lna54s34q" path="res://Fantasy_Free/nodes/cactus_001.tscn" id="12_vg8hx"]
+[ext_resource type="PackedScene" uid="uid://c5j3wvw46le62" path="res://Fantasy_Free/nodes/cart_001.tscn" id="13_1l4l6"]
+[ext_resource type="PackedScene" uid="uid://clblo4uu1xcd6" path="res://Fantasy_Free/nodes/crane_001.tscn" id="14_kf5gy"]
+[ext_resource type="PackedScene" uid="uid://dyplsnpgicp7y" path="res://Fantasy_Free/nodes/fabulous_mushroom_001.tscn" id="15_lw33p"]
+[ext_resource type="PackedScene" uid="uid://cx18si7h2hsh3" path="res://Fantasy_Free/nodes/fabulous_mushroom_002.tscn" id="16_bkdro"]
+[ext_resource type="PackedScene" uid="uid://lnl3x1hhnmvc" path="res://Fantasy_Free/nodes/fabulous_mushroom_004.tscn" id="17_e8nw1"]
+[ext_resource type="PackedScene" uid="uid://daibdkn16jgh8" path="res://Fantasy_Free/nodes/fabulous_tree_001.tscn" id="18_qw3vj"]
+[ext_resource type="PackedScene" uid="uid://dnurx7wj0jbv7" path="res://Fantasy_Free/nodes/fir_001.tscn" id="19_6vnoe"]
+[ext_resource type="PackedScene" uid="uid://bl08kl586iut4" path="res://Fantasy_Free/nodes/holder_001.tscn" id="20_nphuw"]
+[ext_resource type="PackedScene" uid="uid://pkbnx6nvoro2" path="res://Fantasy_Free/nodes/house_001.tscn" id="21_i88um"]
+[ext_resource type="PackedScene" uid="uid://dnx6lqql7o1pq" path="res://Fantasy_Free/nodes/house_002.tscn" id="22_pycnm"]
+[ext_resource type="PackedScene" uid="uid://b7fdkincckcoe" path="res://Fantasy_Free/nodes/house_003.tscn" id="23_vu2ip"]
+[ext_resource type="PackedScene" uid="uid://o16t32wb3as4" path="res://Fantasy_Free/nodes/jug_001.tscn" id="24_6hi6y"]
+[ext_resource type="PackedScene" uid="uid://ckv7ex8qg2gjv" path="res://Fantasy_Free/nodes/jug_002.tscn" id="25_kvtox"]
+[ext_resource type="PackedScene" uid="uid://d6pwk7mcv8o1" path="res://Fantasy_Free/nodes/jug_003.tscn" id="26_mku2d"]
+[ext_resource type="PackedScene" uid="uid://2fwk4ir5ax1g" path="res://Fantasy_Free/nodes/jug_004.tscn" id="27_uk0l8"]
+[ext_resource type="PackedScene" uid="uid://dqqrks1xxabs3" path="res://Fantasy_Free/nodes/jug_005.tscn" id="28_pytoa"]
+[ext_resource type="PackedScene" uid="uid://baw18qyqh8c71" path="res://Fantasy_Free/nodes/log_001.tscn" id="29_wn4my"]
+[ext_resource type="PackedScene" uid="uid://dxifvn7k4i06q" path="res://Fantasy_Free/nodes/log_002.tscn" id="30_sf5yb"]
+[ext_resource type="PackedScene" uid="uid://gkipqfrqna2k" path="res://Fantasy_Free/nodes/log_003.tscn" id="31_6fbri"]
+[ext_resource type="PackedScene" uid="uid://boyabl1lrfadf" path="res://Fantasy_Free/nodes/log_004.tscn" id="32_kb1jv"]
+[ext_resource type="PackedScene" uid="uid://bm0wqm1gjluan" path="res://Fantasy_Free/nodes/plate_001.tscn" id="33_t2pep"]
+[ext_resource type="PackedScene" uid="uid://cgj1jm507051n" path="res://Fantasy_Free/nodes/plate_002.tscn" id="34_u267v"]
+[ext_resource type="PackedScene" uid="uid://k1jsmyxxpcq3" path="res://Fantasy_Free/nodes/plate_003.tscn" id="35_8q238"]
+[ext_resource type="PackedScene" uid="uid://chj664a3jvwuk" path="res://Fantasy_Free/nodes/pointer_001.tscn" id="36_x482y"]
+[ext_resource type="PackedScene" uid="uid://c3h3gen7unoln" path="res://Fantasy_Free/nodes/stall_001.tscn" id="37_55ptp"]
+[ext_resource type="PackedScene" uid="uid://6jkbg1pvv5iw" path="res://Fantasy_Free/nodes/stall_table_001.tscn" id="38_qrw2y"]
+[ext_resource type="PackedScene" uid="uid://twcljam2n3co" path="res://Fantasy_Free/nodes/table_001.tscn" id="39_f3kuq"]
+[ext_resource type="PackedScene" uid="uid://xde0pg52c7rm" path="res://Fantasy_Free/nodes/tree_001.tscn" id="40_v2yub"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="bag_001" parent="." instance=ExtResource("1_67dw4")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, 0, 0)
+
+[node name="bag_002" parent="." instance=ExtResource("2_70w1f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, 0, 0)
+
+[node name="bag_003" parent="." instance=ExtResource("3_w2t8n")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 0, 0)
+
+[node name="bag_004" parent="." instance=ExtResource("4_yphgi")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0, 0)
+
+[node name="barrel_001" parent="." instance=ExtResource("5_4iw3t")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 0, 0)
+
+[node name="big_fabulous_tree_001" parent="." instance=ExtResource("6_ii34j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, -8)
+
+[node name="box_001" parent="." instance=ExtResource("7_bbfer")]
+
+[node name="box_001_001" parent="." instance=ExtResource("8_8cgp7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, 0, -1)
+
+[node name="box_002" parent="." instance=ExtResource("9_52rjt")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, 0, -1)
+
+[node name="box_003" parent="." instance=ExtResource("10_k5lre")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 0, -1)
+
+[node name="bucket_001" parent="." instance=ExtResource("11_upmb2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0, -1)
+
+[node name="cactus_001" parent="." instance=ExtResource("12_vg8hx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 0)
+
+[node name="cart_001" parent="." instance=ExtResource("13_1l4l6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, 0, -3)
+
+[node name="crane_001" parent="." instance=ExtResource("14_kf5gy")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 0, -2)
+
+[node name="fabulous_mushroom_001" parent="." instance=ExtResource("15_lw33p")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0, 0)
+
+[node name="fabulous_mushroom_002" parent="." instance=ExtResource("16_bkdro")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -4, 0, -8)
+
+[node name="fabulous_mushroom_004" parent="." instance=ExtResource("17_e8nw1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, 0)
+
+[node name="fabulous_tree_001" parent="." instance=ExtResource("18_qw3vj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, -3)
+
+[node name="fir_001" parent="." instance=ExtResource("19_6vnoe")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0, -5)
+
+[node name="holder_001" parent="." instance=ExtResource("20_nphuw")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 3, 0, 0)
+
+[node name="house_001" parent="." instance=ExtResource("21_i88um")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -12, 0, -2)
+
+[node name="house_002" parent="." instance=ExtResource("22_pycnm")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -19, 0, -2)
+
+[node name="house_003" parent="." instance=ExtResource("23_vu2ip")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12, 0, -8)
+
+[node name="jug_001" parent="." instance=ExtResource("24_6hi6y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8, 0, 0)
+
+[node name="jug_002" parent="." instance=ExtResource("25_kvtox")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7, 0, 0)
+
+[node name="jug_003" parent="." instance=ExtResource("26_mku2d")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0, 0)
+
+[node name="jug_004" parent="." instance=ExtResource("27_uk0l8")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8, 0, -1)
+
+[node name="jug_005" parent="." instance=ExtResource("28_pytoa")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7, 0, -1)
+
+[node name="log_001" parent="." instance=ExtResource("29_wn4my")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8, 0, -7)
+
+[node name="log_002" parent="." instance=ExtResource("30_sf5yb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9, 0, -4)
+
+[node name="log_003" parent="." instance=ExtResource("31_6fbri")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8, 0, -4)
+
+[node name="log_004" parent="." instance=ExtResource("32_kb1jv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7, 0, -4)
+
+[node name="plate_001" parent="." instance=ExtResource("33_t2pep")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0, -1)
+
+[node name="plate_002" parent="." instance=ExtResource("34_u267v")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 0, -2)
+
+[node name="plate_003" parent="." instance=ExtResource("35_8q238")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7, 0, -2)
+
+[node name="pointer_001" parent="." instance=ExtResource("36_x482y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 0, 0)
+
+[node name="stall_001" parent="." instance=ExtResource("37_55ptp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, -3)
+
+[node name="stall_table_001" parent="." instance=ExtResource("38_qrw2y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, -3)
+
+[node name="table_001" parent="." instance=ExtResource("39_f3kuq")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6, 0, -2)
+
+[node name="tree_001" parent="." instance=ExtResource("40_v2yub")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, -10)
+
+[node name="showcase_platfrom" type="CSGBox3D" parent="."]
+transform = Transform3D(50, 0, 0, 0, 1, 0, 0, 0, 20, 0, -1, -3)
