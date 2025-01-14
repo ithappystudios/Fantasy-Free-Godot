@@ -1,9 +1,9 @@
 Fantasy Free Package of ITHappy studios provides you with ready to use assets for creating 3D game in Godot Engine.
 
-![image](https://github.com/user-attachments/assets/c6bab7c2-f4d0-463a-b96e-74d7e312bab8)
-![image](https://github.com/user-attachments/assets/b554be4f-972c-4b7c-93c8-5c5938435bf6)
-![image](https://github.com/user-attachments/assets/8fedc250-d992-4ccc-b207-7e8916be1dd4)
-![image](https://github.com/user-attachments/assets/0d9f2fa8-7b0e-4644-a1fb-1e44480b7fd3)
+![Fantasy_Free_0-min](https://github.com/user-attachments/assets/c6d68e12-73d1-4046-b921-5e37de6a51ec)
+![Fantasy_Free_1-min](https://github.com/user-attachments/assets/11d4a686-1f74-4d18-bade-95df09c0c772)
+![Fantasy_Free_2-min](https://github.com/user-attachments/assets/473d57be-fd02-4495-bf70-241362775678)
+![Fantasy_Free_3-min](https://github.com/user-attachments/assets/4732c6e9-b606-465a-9f23-4c9e84832180)
 
 Package contains:
 - 41 fbx files with 3d models and an import setiing file for each of them
